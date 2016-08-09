@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="container"/>
+    <item type="id" name="view_holder_position"/>
+    <item type="id" name="view_holder_data"/>
+    <item type="id" name="view_holder"/>
+    <item type="id" name="layout_loading"/>
+    <item type="id" name="layout_network_error"/>
+    <item type="id" name="layout_no_content"/>
+    <item type="id" name="titlebar"/>
+    <item type="id" name="tv_title"/>
+    <item type="id" name="iv_back"/>
+    <item type="id" name="iv_action"/>
+</resources>
